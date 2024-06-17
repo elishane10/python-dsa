@@ -1,0 +1,6 @@
+#python dsa files from great learing 
+num = int(input("Enter the no ="))
+if (num %2 == 0):
+  print("Its a even no ")
+else:
+print("I|ts a odd no ")
